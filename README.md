@@ -18,7 +18,5 @@ This repository contains:
 - Excel files with all raw and structured data tables
 - Summaries and insights generated from the analysis
 
-## Purpose
-This project serves as a foundational strategic tool for Join Momentum’s leadership, helping inform decisions on product development, marketing strategy, and growth planning. It demonstrates how structured, AI-assisted research and competitor benchmarking can guide actionable business insights.
 
 
